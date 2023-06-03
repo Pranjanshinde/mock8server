@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "jayesh",
+      "avatar": "https://m.media-amazon.com/images/I/51JnGTVsooL._AC_UL600_FMwebp_QL65_.jpg",
+      "email": "jayesh@123",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "sumit",
+      "avatar": "https://m.media-amazon.com/images/I/61uBH8gIIIL._AC_UL600_FMwebp_QL65_.jpg",
+      "email": "sumit@123",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "mandar",
+      "avatar": "https://m.media-amazon.com/images/I/71ssF1s7V1L._AC_UL600_FMwebp_QL65_.jpg",
+      "email": "mandar@123",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "forum": [
+    {
+      "id": 1,
+      "question": {
+        "userAvatar": "https://m.media-amazon.com/images/I/71UO0Bba1IL._AC_UL600_FMwebp_QL65_.jpg",
+        "username": "JohnDoe123",
+        "questionTitle": "How to sort an array in JavaScript?",
+        "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+        "language": "JavaScript",
+        "upvotes": 10,
+        "answers": 3,
+        "postedDate": "2023-05-30"
+      },
+      "answers": [
+        {
+          "userAvatar": "user_avatar2.png",
+          "username": "JaneSmith456",
+          "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+          "postedDate": "2023-05-31"
+        },
+        {
+          "userAvatar": "user_avatar3.png",
+          "username": "SamJohnson789",
+          "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+          "postedDate": "2023-06-01"
+        },
+        {
+          "userAvatar": "user_avatar4.png",
+          "username": "EmilyBrownXYZ",
+          "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+          "postedDate": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "question": {
+        "userAvatar": "https://m.media-amazon.com/images/I/61uBH8gIIIL._AC_UL600_FMwebp_QL65_.jpg",
+        "username": "",
+        "questionTitle": "vxcvcxvxcv",
+        "questionDescription": "cxvcxvcxvcx",
+        "language": "JavaScript",
+        "upvotes": 0,
+        "answers": 0,
+        "postedDate": 1685787601512,
+        "user": "sumit"
+      },
+      "answers": [],
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
